@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fragment Lifecycle Exercise</string>
+    <string name="navigate_to_detail">Navigate to detail</string>
+</resources>
